@@ -1,0 +1,1 @@
+console.log(Math.round(math.random() *10)
